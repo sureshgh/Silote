@@ -1,14 +1,11 @@
 Arduino-IDE-for-Raspberry-Pi
 ============================
 Karkhana Lab is working on a light weight Arduino IDE for raspberry pi
-Installer package will be available soon for linux 
-here are the dependencies to be installed before running this application
+To install the app. in the terminal run the "installer" file from the Silote directory. 
+i.e. don't run install from any other directory than Silote
+     /Silote$ ./install
+    
+This will install all the required dependencies.
+Press 'y' while installing, if necessary 
 
-
-1. sudo apt-get install python
-1. Avr-Gcc 	sudo apt-get install avr-libc binutils-avr gcc-avr libftdi1
-2. WX-Python 	sudo apt-get install python-wxgtk2.8 python-wxtools wx2.8-i18n libwxgtk2.8-dev 
-3. Putty 	sudo apt-get install putty
-
-
-
+Note. The Silote shortcut(.desktop) beside installer will only work after running installer

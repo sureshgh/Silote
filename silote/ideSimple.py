@@ -1,7 +1,6 @@
 #!/usr/bin/python
 
 import wx
-import wx.richtext
 import os
 import wx.stc
 import shutil

@@ -2,7 +2,7 @@ Arduino-IDE-for-Raspberry-Pi
 ============================
 Karkhana Lab is working on a light weight Arduino IDE for raspberry pi
 To install the app. in the terminal run the "installer" file from the Silote directory. 
-i.e. don't run install from any other directory than Silote
+i.e. don't run install from any directory other than Silote
      /Silote$ ./install
     
 This will install all the required dependencies.

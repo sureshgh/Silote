@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon[en_US]=python
+Name[en_US]=Silaut
+Exec=python "/home/binayak/Desktop/unused/Raspberry pi/development Karkhuino/onPi/silaut/ideSimple.py"
+Name=Silaut
+Icon=python

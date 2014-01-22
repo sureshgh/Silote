@@ -8,4 +8,4 @@ i.e. don't run install from any directory other than Silote
 This will install all the required dependencies.
 Press 'y' while installing, if necessary 
 
-Note. The Silote shortcut(.desktop) beside installer will only work after running installer
+Note. The Silote shortcut(.desktop) beside installer will work only after running installer
